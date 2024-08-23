@@ -1,0 +1,17 @@
+{
+  "Dev": {
+    "version": "0.7.21",
+    "update_url": "",
+    "md5": ""
+  },
+  "Beta": {
+    "version": "",
+    "update_url": "",
+    "md5": ""
+  },
+  "Stable": {
+    "version": "",
+    "update_url": "",
+    "md5": ""
+  }
+}
